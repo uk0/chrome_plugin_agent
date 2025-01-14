@@ -1,5 +1,9 @@
 ## Chrome Plugin AI AutoMan(Agent)
 
+
+![img.png](chrome_plugin/img.png)
+
+
 ### TODO 
 
 
