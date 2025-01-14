@@ -24,7 +24,7 @@
 
 ```bash
 
-{"action":"open_tab","payload":{"url":"https://console.tensorsecurity.cn/#/palace/event-center/159372654275479392"}}
+{"action":"open_tab","payload":{"url":"https://qwq.chat"}}
 {"action":"get_curr_tab"} #获取当前tab详情
 {"action":"get_curr_tab_page_load"} #获取当前激活的tab页面的内容
 {"action":"close_tab","payload":{"tabId":1418708484}} # 关闭某一个tab
